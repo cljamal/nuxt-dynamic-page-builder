@@ -1,0 +1,42 @@
+[
+	{
+		"file": "BaseData/counts.vue",
+		"pascalName": "BaseDataCounts",
+		"componentName": "base-data-counts"
+	},
+	{
+		"file": "BaseData/douible.vue",
+		"pascalName": "BaseDataDouible",
+		"componentName": "base-data-douible"
+	},
+	{
+		"file": "BaseData/tripple.vue",
+		"pascalName": "BaseDataTripple",
+		"componentName": "base-data-tripple"
+	},
+	{
+		"file": "Brasko/Donny.vue",
+		"pascalName": "BraskoDonny",
+		"componentName": "brasko-donny"
+	},
+	{
+		"file": "MallinaComponents/Lips.vue",
+		"pascalName": "MallinaComponentsLips",
+		"componentName": "mallina-components-lips"
+	},
+	{
+		"file": "layouts/mini.vue",
+		"pascalName": "LayoutsMini",
+		"componentName": "layouts-mini"
+	},
+	{
+		"file": "main.vue",
+		"pascalName": "Main",
+		"componentName": "main"
+	},
+	{
+		"file": "mynewfiles/something-new.vue",
+		"pascalName": "MynewfilesSomethingNew",
+		"componentName": "mynewfiles-something-new"
+	}
+]
